@@ -7,7 +7,8 @@ Basics you need to know for terraform...
 
 2. You can provide the name of terraform script file as per your choice but always end with .tf
 
-3. Some imp commands used in terraform /n
+3. Some imp commands used in terraform
+ 
         "If you are not a root user use sudo befor every command..."
 
 a. terraform init : Once you write script for resources then run this command in same directory where you write the script, This initialise terraform with sript and download requirement mention in code. Whithout ‘terraform init’ your working directory not initialize for terraform.
