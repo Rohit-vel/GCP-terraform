@@ -34,7 +34,9 @@
 
 ### Before creating resources create one service account and download the key for provide credential of your account.
 
-_Go to IAM console with navigation pan and click on service account._
+_In the script file named 'terroform-project-a745e034dbf9.json' is the secret key downloaded from service account you will put your key file_
+
+_Go to IAM console with navigation pan and click on service account._ 
 
 ![Screenshot from 2022-12-06 17-44-45](https://user-images.githubusercontent.com/104149165/205910996-4bc0275a-aa09-4693-b21c-efcf376ccb78.png)
 
